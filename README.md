@@ -1,7 +1,7 @@
 About me:
 
 👋Hello everyone
-I'm Kiran A.S,a first-year Computer Science Engineering (CSE) Student.I like to play sports,listen to music and read books
+I'm Kiran A.S, Computer Science Engineering (CSE) Student.I like to play sports,listen to music and read books
 
 Why should we choose you?
 
